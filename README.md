@@ -1,5 +1,5 @@
-# UNIT PLAN NAME
-by TEAM MEMBERS
+# Python Programming Basics
+by Yanique Sears
 
 -----
 
