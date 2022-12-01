@@ -38,7 +38,7 @@ Trinket
 ---
 
 ### Resources
-(https://docs.python.org/3/ "Python Documentation") <br/>
+[Python Documentation](https://docs.python.org/3/) <br/>
 [Foundations of Python Programming Textbook] (https://runestone.academy/ns/books/published/fopp/index.html)
 ---
 
