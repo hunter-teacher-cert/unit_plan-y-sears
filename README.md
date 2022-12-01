@@ -45,7 +45,7 @@ Trinket
 ### Lessons
 Total length: 2 Weeks
 
-Lesson 1: Python Diagnostic
+Lesson 1: Python Diagnostic <br/>
 Lesson 2: Introduction to Python
 Lesson 3: Data Types
 Lesson 4: Variables
