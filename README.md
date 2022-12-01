@@ -46,20 +46,20 @@ Trinket
 Total length: 2 Weeks
 
 Lesson 1: Python Diagnostic <br/>
-Lesson 2: Introduction to Python
-Lesson 3: Data Types
-Lesson 4: Variables
-Lesson 5: Variable and Data Manipulation
-Lesson 6: Conditionals
-Lesson 7: Conditionals 2
-Lesson 8: Booleans/Logic
-Lesson 9: Practice Task
+Lesson 2: Introduction to Python <br/>
+Lesson 3: Data Types <br/>
+Lesson 4: Variables <br/> 
+Lesson 5: Variable and Data Manipulation <br/>
+Lesson 6: Conditionals <br/>
+Lesson 7: Conditionals 2 <br/>
+Lesson 8: Booleans/Logic <br/>
+Lesson 9: Practice Task <br/>
 Lesson 10: Unit Project Work Day
 
 ---
 
 ### Assesments
-Summative: Unit 1 project
+Summative: Unit 1 project <br/>
 Formative: 
 
 ---
