@@ -30,7 +30,9 @@ Historically, the students I've had in AP CSP preferred block-based programming 
 
 ### Tools Used
 Python
+
 Replit
+
 Trinket
 
 ---
