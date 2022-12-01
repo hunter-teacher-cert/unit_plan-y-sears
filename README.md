@@ -4,7 +4,7 @@ by Yanique Sears
 -----
 
 ### General Overview
-This unit will take place after the AP CSP exam and fit into the AP CSP course. Students will explore text-based programming more in-depth than they would in the actual CSP course. It would focus on teaching some of the basic structures of a text-based language using Python as the language.
+This unit will take place after the AP CSP exam and fit into the AP CSP course. Students will explore text-based programming more in-depth than they would in the actual CSP course. It would focus on teaching some of the basic structures (variables, conditionals, booleans) of a text-based language using Python as the language. Students should be familiar with these concepts already.
 
 ---
 
@@ -29,23 +29,35 @@ Historically, the students I've had in AP CSP preferred block-based programming 
 ---
 
 ### Tools Used
-(include programming language(s), specific programs/environments, and other tools (digital or otherwise) if necessary)
+Python
+Replit
+Trinket
 
 ---
 
 ### Resources
-(include any links/books/readings to be used during this unit)
-
+[Python Documentation] (https://docs.python.org/3/)
+[Foundations of Python Programming Textbook] (https://runestone.academy/ns/books/published/fopp/index.html)
 ---
 
 ### Lessons
-Total lenght: X Weeks
+Total length: 2 Weeks
 
-(list each lesson with main topic(s))
+Lesson 1: Python Diagnostic
+Lesson 2: Introduction to Python
+Lesson 3: Data Types
+Lesson 4: Variables
+Lesson 5: Variable and Data Manipulation
+Lesson 6: Conditionals
+Lesson 7: Conditionals 2
+Lesson 8: Booleans/Logic
+Lesson 9: Practice Task
+Lesson 10: Unit Project Work Day
 
 ---
 
 ### Assesments
-(list summative and/or formative assessments used)
+Summative: Unit 1 project
+Formative: 
 
 ---
