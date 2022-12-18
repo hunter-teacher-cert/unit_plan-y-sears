@@ -52,8 +52,8 @@ Lesson 4: Variables <br/>
 Lesson 5: Variable and Data Manipulation <br/>
 Lesson 6: Conditionals <br/>
 Lesson 7: Conditionals 2 <br/>
-Lesson 8: Booleans/Logic <br/>
-Lesson 9: Practice Task <br/>
+Lesson 8: Practice Task <br/>
+Lesson 9: Unit 1 Final Project <br/>
 Lesson 10: Unit Project Work Day
 
 ---
